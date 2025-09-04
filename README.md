@@ -44,21 +44,6 @@ Password security is handled using **bcrypt hashing** for safe authentication.
 
 ---
 
-## 🖼️ Screenshots  
-
-### 🔐 Login Page  
-![Login](screenshots/login.png)  
-
-### 📋 Librarian Menu  
-![Librarian](screenshots/librarian.png)  
-
-### 📚 Search Catalogue  
-![Search](screenshots/search.png)  
-
-### ⏰ Overdue Report  
-![Overdue](screenshots/overdue.png)  
-
----
 
 ## 📘 What I Learned  
 
@@ -86,3 +71,22 @@ library_mgmt/
 ├── utils.py            # Helper utilities (e.g., today’s date)
 ├── data/               # CSV files: books.csv, members.csv, loans.csv
 └── tests/              # Pytest cases
+
+## 🙌 Contributing
+
+💡 If you have any suggestions, feel free to open an issue or ping me — I'm happy to collaborate and improve this project together!
+
+---
+ 
+## 📬 Contact
+
+**Akash**  
+🔗 [LinkedIn](https://www.linkedin.com)  
+📧 akash.sfdc015@gmail.com  
+
+> 🚀 Interested in building cool projects together? Let’s collaborate!
+
+---
+
+🛠️ Built with passion, caffeine ☕, and lots of ❤️  
+by Akash 🚀
