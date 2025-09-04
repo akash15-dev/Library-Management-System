@@ -1,4 +1,4 @@
-# 📚 Python Library Management System (Console Project) 🚀  
+# 📚 Python Library Management System 🚀  
 
 A **menu-driven Library Management System** built in Python.  
 This project demonstrates core concepts like authentication, CRUD operations, file-based storage, and role-based access — all using a console interface with `.csv` files as the database.  
