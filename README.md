@@ -72,6 +72,8 @@ library_mgmt/
 ├── data/               # CSV files: books.csv, members.csv, loans.csv
 └── tests/              # Pytest cases
 
+```
+
 ## 🙌 Contributing
 
 💡 If you have any suggestions, feel free to open an issue or ping me — I'm happy to collaborate and improve this project together!
